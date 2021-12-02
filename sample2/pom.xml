@@ -15,4 +15,14 @@
          <version>1.0-SNAPSHOT</version>
       </dependency>
    </dependencies>
+   <repositories>
+      <repository>
+         <id>qt.libary1</id>
+         <url>http://download.internal.qt.com/maven2/library1</url>
+      </repository>
+      <repository>
+         <id>qt.libary2</id>
+         <url>http://download.internal.qt.com/maven2/library2</url>
+      </repository>
+   </repositories>
 </project>
